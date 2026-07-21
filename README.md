@@ -11,14 +11,15 @@
 
 <td align="right" width="20%">
 
-<img width="640" height="640" alt="neural-net_17556354" src="https://github.com/user-attachments/assets/42a74abb-3b34-44d9-9acd-53a12030c992" />
+<img width="500" height="500" alt="Black And White Art GIF by Pi-Slices" src="https://github.com/user-attachments/assets/7b217139-b41d-4d5b-8bee-cc197b0f85cc" />
 
 </td>
 </tr>
 </table>
 
-<img width="500" height="500" alt="Black And White Art GIF by Pi-Slices" src="https://github.com/user-attachments/assets/7b217139-b41d-4d5b-8bee-cc197b0f85cc" />
-
+<p align="left">
+<img width="1672" height="941" alt="435ق2326, 07_12_51 AM" src="https://github.com/user-attachments/assets/9a778b77-e7ab-4ac6-8f21-f22a47b8de76" />
+</p>
 
 
 
