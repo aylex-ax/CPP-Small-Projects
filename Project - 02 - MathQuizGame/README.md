@@ -1,7 +1,9 @@
 <h1 align="center">➗ Math Quiz Game (C++)</h1>
 
 <p align="center">
-  ((الصورة هنا))
+
+<img width="1536" height="1024" alt="43543" src="https://github.com/user-attachments/assets/6687cfc9-90fa-46bf-a5a0-6ed6a1c63ba0" />
+
 </p>
 
 A console-based **Math Quiz Game** written in **C++** that generates random math questions based on the player's chosen difficulty level and operation type, then evaluates the answers and displays a final report with a Pass/Fail result.
