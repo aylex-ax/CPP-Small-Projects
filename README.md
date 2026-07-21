@@ -4,7 +4,9 @@
 
 
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2c2c38a6-a65c-480d-a222-efdaa8d2ca79" width="80" alt="Sticker">
+</p>
 
 
 
