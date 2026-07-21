@@ -1,10 +1,25 @@
-<h1 align="center">BankClientManagementSystem — Update 01: Transactions</h1>
 
-<p align="center">
-  ((الصورة هنا))
-</p>
+
+<table align="center" width="100%" border="1">
+  <tr>
+    <td align="center">
+      <h2>BankClientManagementSystem — Update 01: Transactions</h2>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+    <img width="1448" height="1086" alt="ChatGPT Image 21 يوليو 2026، 05_49_10 ص" src="https://github.com/user-attachments/assets/e4bd920c-e3c7-482c-b239-00e1d1706e39" />
+    </td>
+  </tr>
+</table>
 
 🔄 **This project is an Update/Extension of [Project - 03 - BankClientManagementSystem](../Project%20-%2003%20-%20BankClientManagementSystem), adding a full Transactions module (Deposit, Withdraw, Total Balances) on top of the original CRUD system.**
+
+
+
+
+
+
 
 A console-based **Bank Client Management System** written in **C++**, extended with a dedicated **Transactions Menu** that allows depositing and withdrawing money from a client's account, in addition to the original client management features (Add / Delete / Update / Find / Show List). All data is still persisted using a local text file (`Clients.txt`), with no database required.
 
