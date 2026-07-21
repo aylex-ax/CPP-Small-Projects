@@ -4,6 +4,23 @@
   ((الصورة هنا))
 </p>
 
+
+<table align="center" width="100%" border="1">
+  <tr>
+    <td align="center">
+      <h2>🏦 Bank Client Management System (C++)</h2>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+     <img width="2056" height="768" alt="Firefly (3)" src="https://github.com/user-attachments/assets/7498dfff-f40c-4f8a-a8cd-7c9d475d88a0" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 A console-based **Bank Client Management System** written in **C++** that manages client records with full **CRUD** operations (Create, Read, Update, Delete) using persistent **file handling** — no database required. Client data is stored and retrieved from a local text file (`Clients.txt`), with each record parsed and rebuilt using a custom delimiter-based line format.
 
 This project is part of the **[Algorithms and Fundamentals – Level 03: Algorithms Problem-Solving Level 3](https://github.com/mostafa-000/Algorithms-and-Fundamentals/tree/master/Level%2003%20-%20Algorithms%20Problem-Solving%20Level%203)** course track.
