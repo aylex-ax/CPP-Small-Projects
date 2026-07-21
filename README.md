@@ -1,15 +1,6 @@
 <p align="center">
-<img width="480" height="480" alt="Click Election 2020 Sticker by INTO ACTION" src="https://github.com/user-attachments/assets/2c2c38a6-a65c-480d-a222-efdaa8d2ca79" />
+  <img src="https://github.com/user-attachments/assets/2c2c38a6-a65c-480d-a222-efdaa8d2ca79" width="120" alt="Sticker">
 </p>
-
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2c2c38a6-a65c-480d-a222-efdaa8d2ca79" width="80" alt="Sticker">
-</p>
-
-
-
 
 <p align="center">
 
