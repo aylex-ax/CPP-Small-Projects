@@ -1,6 +1,3 @@
-# Project - 03 - Update - 02 - BankClientManagementSystem-UsersAndPermissions
-
-((الصورة هنا))
 <table align="center" width="100%" border="1">
   <tr>
     <td align="center">
